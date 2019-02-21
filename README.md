@@ -7,3 +7,6 @@ Lista de temas
 3. Tipos de imagenes
 4. Imagenes desde el punto de vista matematico
 5. Imagenes como una representacion matricial de pixeles
+6. Ejercicios de cada tema
+
+
