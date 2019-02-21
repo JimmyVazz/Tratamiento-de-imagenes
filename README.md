@@ -4,5 +4,6 @@ En este curso aprénderas aspectos básicos de la téoria que está detrás de l
 Lista de temas
 1. Introducción a las imágenes
 2. Que son las imágenes
-3. Como tratarlas
-4. Que se debe haver
+3. Tipos de imagenes
+4. Imagenes desde el punto de vista matematico
+5. Imagenes como una representacion matricial de pixeles
