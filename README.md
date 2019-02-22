@@ -11,4 +11,4 @@ Lista de temas
 
 ¿Que es una imagen?
 Una matriz de pixeles con valores entre 1 y 255 de la representacion del reflejo de la luz
-![Alt text](22877255389/Representacion-matricial-de-una-imagen-en-escala-de-grises-y-de-una-imagen-a-color.png "Representacion Matricial")
+
